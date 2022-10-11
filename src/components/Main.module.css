@@ -1,0 +1,8 @@
+.main {
+    background-color: #e06666;
+    padding: 20px;
+    width: 83%;
+    display: inline-flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
